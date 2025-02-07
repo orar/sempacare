@@ -31,7 +31,7 @@ export function constructMetadata({
       "Senior Care",
       "Care Agency",
       "Care Services",
-      "Wester Care",
+      "Sempa Care",
       "Health Recruitment",
       "Healthcare",
       "Home Nursing",

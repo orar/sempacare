@@ -11,7 +11,7 @@ export default function QuoteForm() {
           <div className="mx-auto max-w-[900px] space-y-2 text-center">
             <h2 className="font-heading text-3xl font-bold tracking-tighter md:text-4xl">Request a Call From Us</h2>
             <p className=" text-muted-foreground md:text-lg/relaxed">
-              Interested in our services? Fill out the form below and we&apos;ll get back to you with a custom quote.
+              Interested in our services? Fill out the form below and we&apos;ll get back to you with smiles.
             </p>
           </div>
           <div className="grid-col-1 md:grid-col-7 grid space-y-12">

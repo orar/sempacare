@@ -81,7 +81,7 @@ export const testimonials: TestimonialType[] = [
     job: "Son of client Michael Asafo Twum, 68",
     image: "https://randomuser.me/api/portraits/women/2.jpg",
     review:
-    "Our dad struggled with mobility after his stroke. ComfortCare's nurses helped him regain confidence through patient, skilled rehabilitation. Their care went beyond medical support—they restored hope for our entire family."
+    "Our dad struggled with mobility after his stroke. SempaCare's nurses helped him regain confidence through patient, skilled rehabilitation. Their care went beyond medical support—they restored hope for our entire family."
   },
   {
     name: "Susan Kyeremanteng",
@@ -95,27 +95,27 @@ export const testimonials: TestimonialType[] = [
     job: "Daughter of client",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
     review:
-    "Caring for my elderly mother was challenging until ComfortCare stepped in. Their nurses were compassionate, reliable, and truly understood our need. I could finally breathe easier."
+    "Caring for my elderly mother was challenging until SempaCare stepped in. Their nurses were compassionate, reliable, and truly understood our need. I could finally breathe easier."
   },
   {
     name: "Emily A. Mintah",
     job: "Client, 38",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
     review:
-    "Life-changing care. ComfortCare gives mom the support she needs with professionalism and heart."
+    "Life-changing care. SempaCare gives mom the support she needs with professionalism and heart."
   },
   {
     name: "Samira Anaba",
     job: "Daught of client, 59",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
     review:
-    "During my mummy's critical hospital stay, clashing with my trips abroad, ComfortCare's professional nurse stepped in like family. She was our constant support, communicating with doctors, managing her care, and providing emotional comfort when I couldn't be there. My mum liked her and was later comforting me that she's ok. God bless them so much"
+    "During my mummy's critical hospital stay, clashing with my trips abroad, SempaCare's professional nurse stepped in like family. She was our constant support, communicating with doctors, managing her care, and providing emotional comfort when I couldn't be there. My mum liked her and was later comforting me that she's ok. God bless them so much"
   },
   {
     name: "Jennifer Chidi",
     job: "Client, 45",
     image: "https://randomuser.me/api/portraits/men/9.jpg",
     review:
-    "When my little brother was hospitalized in Accra, ComfortCare became our family's lifeline. Their professional caregiver Maria was more than a nurse—she was our advocate, ensuring his medical needs were met with compassion and personal attention. She sat in for me everytime when he needed me day and night"
+    "When my little brother was hospitalized in Accra, SempaCare became our family's lifeline. Their professional caregiver Maria was more than a nurse—she was our advocate, ensuring his medical needs were met with compassion and personal attention. She sat in for me everytime when he needed me day and night"
   },
 ];
