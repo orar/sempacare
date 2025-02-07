@@ -1,6 +1,5 @@
 import React from 'react';
 import MaxWidthWrapper from "@/components/shared/max-width-wrapper";
-import {MedicalStaffing} from "@/app/(marketing)/corporate/page";
 import {Icons} from "@/components/shared/icons";
 import {Button} from "@/components/ui/button";
 import Link from "next/link";
@@ -28,24 +27,13 @@ import {contact} from "@/config/contact";
 // custom role
 
 // use cases
-// public and private medical facilities
+// public and private medical facility
 // government & ngos
 // private & residential clients
 // foreign assistance and intl inclusion
 
 
-const Page = () => {
-  return (
-   <>
-     <Staffing />
-   </>
-  );
-};
-
-export default Page;
-
-
-export function Staffing() {
+export default function Page() {
   const contactEmail = contact.email[0]
 
   return (
@@ -242,19 +230,6 @@ export function Staffing() {
           </Link>
         </div>
       </div>
-    </section>
-  )
-}
-
-export function UseCases() {
-
-  return (
-    <section className="py-16">
-      <MaxWidthWrapper className="grid grid-cols-1 space-y-12 md:grid-cols-2 md:gap-12">
-        <div>
-
-        </div>
-      </MaxWidthWrapper>
     </section>
   )
 }
